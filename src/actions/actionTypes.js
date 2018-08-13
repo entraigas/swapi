@@ -1,0 +1,4 @@
+// action types
+export const CHANGE_MENU_PROPS = "CHANGE_MENU_PROPS";
+export const CHANGE_PLANETS_PROPS = "CHANGE_PLANETS_PROPS";
+export const CHANGE_PEOPLE_PROPS = "CHANGE_PEOPLE_PROPS";
